@@ -1,23 +1,9 @@
-# GitHub Pages Documents
+# Hive Suite Review Docs
 
-These files are ready for TikTok App Review submission.
+Public docs site for TikTok app review:
 
-## Quick publish steps
+- Website: https://tgabereal.github.io/hive-suite-review-docs/
+- Terms: https://tgabereal.github.io/hive-suite-review-docs/review/terms.html
+- Privacy: https://tgabereal.github.io/hive-suite-review-docs/review/privacy.html
 
-1. Commit this repository to GitHub.
-2. In GitHub: **Settings → Pages**.
-3. Set Source to:
-   - **Deploy from a branch**
-   - Branch: `main`
-   - Folder: `/docs`
-4. Save.
-
-Your URLs will be:
-- Terms: `https://<username>.github.io/<repo>/terms.html`
-- Privacy: `https://<username>.github.io/<repo>/privacy.html`
-- Landing: `https://<username>.github.io/<repo>/`
-
-## Notes
-
-- If this is a forked repo with a different default branch, use that branch name instead of `main`.
-- Update the `Effective date` and contact details in the HTML if you need to tailor them for production use.
+Use the `/review/` pages for the TikTok App Review submission fields to avoid extension/versioning ambiguity.
